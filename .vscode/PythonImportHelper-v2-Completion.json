@@ -24,6 +24,54 @@
         "documentation": {}
     },
     {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
         "label": "request",
         "importPath": "flask",
         "description": "flask",
@@ -64,11 +112,347 @@
         "documentation": {}
     },
     {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "BookSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ItemSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "book_blp",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "Schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Swagger",
+        "importPath": "flasgger",
+        "description": "flasgger",
+        "isExtraImport": true,
+        "detail": "flasgger",
+        "documentation": {}
+    },
+    {
+        "label": "Swagger",
+        "importPath": "flasgger",
+        "description": "flasgger",
+        "isExtraImport": true,
+        "detail": "flasgger",
+        "documentation": {}
+    },
+    {
         "label": "escape",
         "importPath": "markupsafe",
         "description": "markupsafe",
         "isExtraImport": true,
         "detail": "markupsafe",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "importPath": "markupsafe",
+        "description": "markupsafe",
+        "isExtraImport": true,
+        "detail": "markupsafe",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
         "documentation": {}
     },
     {
@@ -87,6 +471,276 @@
         "description": "assignment_0923.app",
         "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef index():\n    users = [\n        {\"username\": \"admin\", \"realname\": \"admin\"},\n        {\"username\": \"honeybadger\", \"realname\": \"Samuel\"},\n        {\"username\": \"hospital\", \"realname\": \"Max\"},\n        {\"username\": \"murder ink\", \"realname\": \"Rodney\"}\n    ]\n    return render_template('index.html', users=users)",
         "detail": "assignment_0923.app",
+        "documentation": {}
+    },
+    {
+        "label": "BookList",
+        "kind": 6,
+        "importPath": "bookmanage.api",
+        "description": "bookmanage.api",
+        "peekOfCode": "class BookList(MethodView):\n    @book_blp.response(200, BookSchema(many=True))\n    def get(self):\n        return books\n    # 200일땐 그냥 돌려주는것 같고...\n    @book_blp.arguments(BookSchema) #put같은 경우, arguments를 통해 스키마 검증을 함\n    @book_blp.response(201, BookSchema)\n    def post(self, new_data):\n        new_data['id'] = len(books) +1    #len에 1 추가하면 새 id값으로 적절하겠지?\n        books.append(new_data)",
+        "detail": "bookmanage.api",
+        "documentation": {}
+    },
+    {
+        "label": "Book",
+        "kind": 6,
+        "importPath": "bookmanage.api",
+        "description": "bookmanage.api",
+        "peekOfCode": "class Book(MethodView):\n    @book_blp.response(200, BookSchema)\n    def get(self, book_id):\n        book = next((book for book in books if book['id'] == book_id), None)\n        if book is None:\n            abort(404, message = \"Book not found.\")\n        return book\n    # put(수정)\n    @book_blp.arguments(BookSchema)\n    @book_blp.response(200, BookSchema)",
+        "detail": "bookmanage.api",
+        "documentation": {}
+    },
+    {
+        "label": "book_blp",
+        "kind": 5,
+        "importPath": "bookmanage.api",
+        "description": "bookmanage.api",
+        "peekOfCode": "book_blp = Blueprint('books', 'books', url_prefix='/books', description='Operations on books')\n# 데이터 저장소\nbooks = []\n# 엔드포인트 구현...\n@book_blp.route('/')\nclass BookList(MethodView):\n    @book_blp.response(200, BookSchema(many=True))\n    def get(self):\n        return books\n    # 200일땐 그냥 돌려주는것 같고...",
+        "detail": "bookmanage.api",
+        "documentation": {}
+    },
+    {
+        "label": "books",
+        "kind": 5,
+        "importPath": "bookmanage.api",
+        "description": "bookmanage.api",
+        "peekOfCode": "books = []\n# 엔드포인트 구현...\n@book_blp.route('/')\nclass BookList(MethodView):\n    @book_blp.response(200, BookSchema(many=True))\n    def get(self):\n        return books\n    # 200일땐 그냥 돌려주는것 같고...\n    @book_blp.arguments(BookSchema) #put같은 경우, arguments를 통해 스키마 검증을 함\n    @book_blp.response(201, BookSchema)",
+        "detail": "bookmanage.api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "bookmanage.app",
+        "description": "bookmanage.app",
+        "peekOfCode": "app = Flask(__name__)\n# Flask-Smorest 설정 추가...\n# API와 블루프린트 등록...\n# OpenAPI 관련 설정\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"",
+        "detail": "bookmanage.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_TITLE\"]",
+        "kind": 5,
+        "importPath": "bookmanage.app",
+        "description": "bookmanage.app",
+        "peekOfCode": "app.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(book_blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "bookmanage.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_VERSION\"]",
+        "kind": 5,
+        "importPath": "bookmanage.app",
+        "description": "bookmanage.app",
+        "peekOfCode": "app.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(book_blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "bookmanage.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_VERSION\"]",
+        "kind": 5,
+        "importPath": "bookmanage.app",
+        "description": "bookmanage.app",
+        "peekOfCode": "app.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(book_blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "bookmanage.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_URL_PREFIX\"]",
+        "kind": 5,
+        "importPath": "bookmanage.app",
+        "description": "bookmanage.app",
+        "peekOfCode": "app.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(book_blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "bookmanage.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"]",
+        "kind": 5,
+        "importPath": "bookmanage.app",
+        "description": "bookmanage.app",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(book_blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "bookmanage.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_URL\"]",
+        "kind": 5,
+        "importPath": "bookmanage.app",
+        "description": "bookmanage.app",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(book_blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "bookmanage.app",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "bookmanage.app",
+        "description": "bookmanage.app",
+        "peekOfCode": "api = Api(app)\napi.register_blueprint(book_blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "bookmanage.app",
+        "documentation": {}
+    },
+    {
+        "label": "BookSchema",
+        "kind": 6,
+        "importPath": "bookmanage.schemas",
+        "description": "bookmanage.schemas",
+        "peekOfCode": "class BookSchema(Schema):\n    title = fields.String(required=True)\n    author = fields.String(required=True)",
+        "detail": "bookmanage.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.action02",
+        "description": "Flask_liveclass.0923.action02",
+        "peekOfCode": "def index():\n    return jsonify(message = \"Hello, OZ BE14!\")\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "Flask_liveclass.0923.action02",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0923.action02",
+        "description": "Flask_liveclass.0923.action02",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/hello-json\")\ndef index():\n    return jsonify(message = \"Hello, OZ BE14!\")\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "Flask_liveclass.0923.action02",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.action03",
+        "description": "Flask_liveclass.0923.action03",
+        "peekOfCode": "def hello():\n    \"\"\"\n    Hello API\n    ---\n    responses:\n      200:\n        description: 성공 응답\n        schema:\n          type: object\n          properties:",
+        "detail": "Flask_liveclass.0923.action03",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0923.action03",
+        "description": "Flask_liveclass.0923.action03",
+        "peekOfCode": "app = Flask(__name__)\nswagger = Swagger(app)\n@app.route('/hello')\ndef hello():\n    \"\"\"\n    Hello API\n    ---\n    responses:\n      200:\n        description: 성공 응답",
+        "detail": "Flask_liveclass.0923.action03",
+        "documentation": {}
+    },
+    {
+        "label": "swagger",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0923.action03",
+        "description": "Flask_liveclass.0923.action03",
+        "peekOfCode": "swagger = Swagger(app)\n@app.route('/hello')\ndef hello():\n    \"\"\"\n    Hello API\n    ---\n    responses:\n      200:\n        description: 성공 응답\n        schema:",
+        "detail": "Flask_liveclass.0923.action03",
+        "documentation": {}
+    },
+    {
+        "label": "get_todos",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.action04",
+        "description": "Flask_liveclass.0923.action04",
+        "peekOfCode": "def get_todos():\n    return jsonify(todos)\n#2. 특정 항목 조회: GET\n@app.route(\"/todos/<int:todo_id>\", methods=[\"GET\"])\ndef get_todo(todo_id):\n    task = todos.get(todo_id)\n    if not task:\n        return jsonify({\"error\": \"Todo not found\"}), 404\n    return jsonify({todo_id: task})\n#3. 항목 추가: POST",
+        "detail": "Flask_liveclass.0923.action04",
+        "documentation": {}
+    },
+    {
+        "label": "get_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.action04",
+        "description": "Flask_liveclass.0923.action04",
+        "peekOfCode": "def get_todo(todo_id):\n    task = todos.get(todo_id)\n    if not task:\n        return jsonify({\"error\": \"Todo not found\"}), 404\n    return jsonify({todo_id: task})\n#3. 항목 추가: POST\n@app.route(\"/todos\", methods = [\"POST\"])\ndef create_todo():\n    data = request.get_json()\n    new_id = max(todos.keys()) + 1 if todos else 1",
+        "detail": "Flask_liveclass.0923.action04",
+        "documentation": {}
+    },
+    {
+        "label": "create_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.action04",
+        "description": "Flask_liveclass.0923.action04",
+        "peekOfCode": "def create_todo():\n    data = request.get_json()\n    new_id = max(todos.keys()) + 1 if todos else 1\n    todos[new_id] = data[\"task\"]\n    return jsonify({new_id: todos[new_id]}), 201\n#200: ok\n#201: created: 내가 뭘 만들었다.\n#204: no content: 작동은 잘 되는데 컨텐츠가 없음\n#4. 항목 수정: PUT, PATCH\n@app.route(\"/todos/<int:todo_id>\", methods=[\"PUT\"])",
+        "detail": "Flask_liveclass.0923.action04",
+        "documentation": {}
+    },
+    {
+        "label": "update_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.action04",
+        "description": "Flask_liveclass.0923.action04",
+        "peekOfCode": "def update_todo(todo_id):\n    if todo_id not in todos:\n        return jsonify({\"error\": \"Todo not found\"}), 404\n    data = request.get_json()\n    todos[todo_id] = data[\"task\"]\n    return jsonify({todo_id: todos[todo_id]})\n#5. 항목 삭제: delete\n@app.route('/todos/<int:todo_id>', methods=[\"DELETE\"])\ndef delete_todo(todo_id):\n    if todo_id not in todos:",
+        "detail": "Flask_liveclass.0923.action04",
+        "documentation": {}
+    },
+    {
+        "label": "delete_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.action04",
+        "description": "Flask_liveclass.0923.action04",
+        "peekOfCode": "def delete_todo(todo_id):\n    if todo_id not in todos:\n        return jsonify({\"error\": \"Todo not found\"}, 404)\n    deleted = todos.pop(todo_id)\n    return jsonify({\"deleted\": \"삭제 완료\"})\n# 400 -> bad request: 코딩 문제\n# 401 -> unauthorized:\n# 403 -> forbidden: \n# 404 -> not found:\n# 409 -> conflict:",
+        "detail": "Flask_liveclass.0923.action04",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0923.action04",
+        "description": "Flask_liveclass.0923.action04",
+        "peekOfCode": "app = Flask(__name__)\nswagger = Swagger(app)\ntodos = {\n    1: \"Velog 작성\",\n    2: \"수준별학습 과제\",\n    3: \"Flask 수업 & 노션 과제 제출\",\n    4: \"운동가기\"\n}\n#1. 전체 목록 조회: GET\n@app.route(\"/todos\", methods=[\"GET\"])",
+        "detail": "Flask_liveclass.0923.action04",
+        "documentation": {}
+    },
+    {
+        "label": "swagger",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0923.action04",
+        "description": "Flask_liveclass.0923.action04",
+        "peekOfCode": "swagger = Swagger(app)\ntodos = {\n    1: \"Velog 작성\",\n    2: \"수준별학습 과제\",\n    3: \"Flask 수업 & 노션 과제 제출\",\n    4: \"운동가기\"\n}\n#1. 전체 목록 조회: GET\n@app.route(\"/todos\", methods=[\"GET\"])\ndef get_todos():",
+        "detail": "Flask_liveclass.0923.action04",
+        "documentation": {}
+    },
+    {
+        "label": "todos",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0923.action04",
+        "description": "Flask_liveclass.0923.action04",
+        "peekOfCode": "todos = {\n    1: \"Velog 작성\",\n    2: \"수준별학습 과제\",\n    3: \"Flask 수업 & 노션 과제 제출\",\n    4: \"운동가기\"\n}\n#1. 전체 목록 조회: GET\n@app.route(\"/todos\", methods=[\"GET\"])\ndef get_todos():\n    return jsonify(todos)",
+        "detail": "Flask_liveclass.0923.action04",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.active01",
+        "description": "Flask_liveclass.0923.active01",
+        "peekOfCode": "def index():\n    return render_template('index.html')\n@app.route(\"/survey\")\ndef survey():\n    #설문 문항\n    questions = [\n        \"오늘 기분은:\",\n        \"어제 수업은:\",\n        \"앞으로 배우고 싶은 내용은:\"\n    ]",
+        "detail": "Flask_liveclass.0923.active01",
+        "documentation": {}
+    },
+    {
+        "label": "survey",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.active01",
+        "description": "Flask_liveclass.0923.active01",
+        "peekOfCode": "def survey():\n    #설문 문항\n    questions = [\n        \"오늘 기분은:\",\n        \"어제 수업은:\",\n        \"앞으로 배우고 싶은 내용은:\"\n    ]\n    return render_template('survey.html', questions = questions)\n@app.route(\"/result\", methods = [\"GET\"])\n# 메서드 한 번 물어봐야겠다...",
+        "detail": "Flask_liveclass.0923.active01",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0923.active01",
+        "description": "Flask_liveclass.0923.active01",
+        "peekOfCode": "def result():\n    answers = request.args.getlist(\"answers\", \"N/A\")\n    #query string에서 답변 받기: getlist 사용\n    return render_template(\"result.html\", answers=answers)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "Flask_liveclass.0923.active01",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0923.active01",
+        "description": "Flask_liveclass.0923.active01",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef index():\n    return render_template('index.html')\n@app.route(\"/survey\")\ndef survey():\n    #설문 문항\n    questions = [\n        \"오늘 기분은:\",\n        \"어제 수업은:\",",
+        "detail": "Flask_liveclass.0923.active01",
         "documentation": {}
     },
     {
@@ -222,6 +876,348 @@
         "description": "Flask_liveclass.main",
         "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef hello_world():\n    return \"Hello, Flask!\"\n@app.route(\"/user/<name>\")\ndef greet(name):\n    return f\"{name}님, 환영합니다.\"\n@app.route(\"/hello\")\ndef hello():\n    return render_template(\"hello.html\", name = \"OZ\")",
         "detail": "Flask_liveclass.main",
+        "documentation": {}
+    },
+    {
+        "label": "example",
+        "kind": 2,
+        "importPath": "week6_RC.action03.abort_test",
+        "description": "week6_RC.action03.abort_test",
+        "peekOfCode": "def example():\n    #어떠한 조건에서 오류를 발생시키고 처리\n    error_condition = True\n    if error_condition:\n        abort(500, description = \"An error occurred while processing the request.\")\n    return \"Success!\" #정상적인 답변ㅇ\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.abort_test",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "week6_RC.action03.abort_test",
+        "description": "week6_RC.action03.abort_test",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/example')\ndef example():\n    #어떠한 조건에서 오류를 발생시키고 처리\n    error_condition = True\n    if error_condition:\n        abort(500, description = \"An error occurred while processing the request.\")\n    return \"Success!\" #정상적인 답변ㅇ\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.abort_test",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "week6_RC.action03.action03",
+        "description": "week6_RC.action03.action03",
+        "peekOfCode": "app = Flask(__name__)\n# OpenAPI 관련 설정\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(blp)",
+        "detail": "week6_RC.action03.action03",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_TITLE\"]",
+        "kind": 5,
+        "importPath": "week6_RC.action03.action03",
+        "description": "week6_RC.action03.action03",
+        "peekOfCode": "app.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.action03",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_VERSION\"]",
+        "kind": 5,
+        "importPath": "week6_RC.action03.action03",
+        "description": "week6_RC.action03.action03",
+        "peekOfCode": "app.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.action03",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_VERSION\"]",
+        "kind": 5,
+        "importPath": "week6_RC.action03.action03",
+        "description": "week6_RC.action03.action03",
+        "peekOfCode": "app.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.action03",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_URL_PREFIX\"]",
+        "kind": 5,
+        "importPath": "week6_RC.action03.action03",
+        "description": "week6_RC.action03.action03",
+        "peekOfCode": "app.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.action03",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"]",
+        "kind": 5,
+        "importPath": "week6_RC.action03.action03",
+        "description": "week6_RC.action03.action03",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.action03",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_URL\"]",
+        "kind": 5,
+        "importPath": "week6_RC.action03.action03",
+        "description": "week6_RC.action03.action03",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\napi = Api(app)\napi.register_blueprint(blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.action03",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "week6_RC.action03.action03",
+        "description": "week6_RC.action03.action03",
+        "peekOfCode": "api = Api(app)\napi.register_blueprint(blp)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.action03",
+        "documentation": {}
+    },
+    {
+        "label": "ItemList",
+        "kind": 6,
+        "importPath": "week6_RC.action03.api",
+        "description": "week6_RC.action03.api",
+        "peekOfCode": "class ItemList(MethodView):\n    @blp.response(200)\n    def get(self):\n        # 모든 아이템을 반환하는 GET 요청 처리\n        return items\n    @blp.arguments(ItemSchema)\n    @blp.response(201, description=\"Item added\")\n    def post(self, new_data):\n        # 새 아이템을 추가하는 POST 요청 처리\n        items.append(new_data)",
+        "detail": "week6_RC.action03.api",
+        "documentation": {}
+    },
+    {
+        "label": "Item",
+        "kind": 6,
+        "importPath": "week6_RC.action03.api",
+        "description": "week6_RC.action03.api",
+        "peekOfCode": "class Item(MethodView):\n    @blp.response(200)\n    def get(self, item_id):\n        # 특정 ID를 가진 아이템을 반환하는 GET 요청 처리\n\t\t\t\t# next() => 반복문에서 값이 있으면 값을 반환하고 없으면 None을 반환\n\t\t\t\t# next는 조건을 만족하는 첫 번째 아이템을 반환하고, 그 이후의 아이템은 무시합니다.\n        item = next((item for item in items if item[\"id\"] == item_id), None)\n        if item is None:\n            abort(404, message=\"Item not found\")\n        return item",
+        "detail": "week6_RC.action03.api",
+        "documentation": {}
+    },
+    {
+        "label": "blp",
+        "kind": 5,
+        "importPath": "week6_RC.action03.api",
+        "description": "week6_RC.action03.api",
+        "peekOfCode": "blp = Blueprint(\"items\", \"items\", url_prefix=\"/items\", description=\"Operations on items\")\n# 간단한 데이터 저장소 역할을 하는 리스트\nitems = []\n# 'ItemList' 클래스 - GET 및 POST 요청을 처리\n@blp.route(\"/\")\nclass ItemList(MethodView):\n    @blp.response(200)\n    def get(self):\n        # 모든 아이템을 반환하는 GET 요청 처리\n        return items",
+        "detail": "week6_RC.action03.api",
+        "documentation": {}
+    },
+    {
+        "label": "items",
+        "kind": 5,
+        "importPath": "week6_RC.action03.api",
+        "description": "week6_RC.action03.api",
+        "peekOfCode": "items = []\n# 'ItemList' 클래스 - GET 및 POST 요청을 처리\n@blp.route(\"/\")\nclass ItemList(MethodView):\n    @blp.response(200)\n    def get(self):\n        # 모든 아이템을 반환하는 GET 요청 처리\n        return items\n    @blp.arguments(ItemSchema)\n    @blp.response(201, description=\"Item added\")",
+        "detail": "week6_RC.action03.api",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "def hello():\n    return \"Hello from my blueprint!\"\n@my_blueprint.route('/greet/<name>')\ndef greet(name):\n    return f\"Hello, {name}!\"\n# 두 번째 블루프린트\nanother_blueprint = Blueprint('another_blueprint', __name__, url_prefix='/another')\n# /another/world\n@another_blueprint.route('/world')\ndef world():",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "def greet(name):\n    return f\"Hello, {name}!\"\n# 두 번째 블루프린트\nanother_blueprint = Blueprint('another_blueprint', __name__, url_prefix='/another')\n# /another/world\n@another_blueprint.route('/world')\ndef world():\n    return \"Hello, world, from another blueprint!\"\n# /another/echo\n@another_blueprint.route('/echo', methods=['POST'])",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "world",
+        "kind": 2,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "def world():\n    return \"Hello, world, from another blueprint!\"\n# /another/echo\n@another_blueprint.route('/echo', methods=['POST'])\ndef echo():\n    data = request.json\n    return f\"Received: {data}\"\n# 블루프린트에 템플릿을 사용하는 예제\n@another_blueprint.route('/template')\ndef using_template():",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "echo",
+        "kind": 2,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "def echo():\n    data = request.json\n    return f\"Received: {data}\"\n# 블루프린트에 템플릿을 사용하는 예제\n@another_blueprint.route('/template')\ndef using_template():\n    return render_template('example.html')\n# 세 번째 블루프린트\nthird_blueprint = Blueprint('third_blueprint', __name__, url_prefix='/third')\n@third_blueprint.route('/bye')",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "using_template",
+        "kind": 2,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "def using_template():\n    return render_template('example.html')\n# 세 번째 블루프린트\nthird_blueprint = Blueprint('third_blueprint', __name__, url_prefix='/third')\n@third_blueprint.route('/bye')\ndef goodbye():\n    return \"Goodbye from the third blueprint!\"\n# 애플리케이션에 블루프린트 등록\napp.register_blueprint(my_blueprint)\napp.register_blueprint(another_blueprint)",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "goodbye",
+        "kind": 2,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "def goodbye():\n    return \"Goodbye from the third blueprint!\"\n# 애플리케이션에 블루프린트 등록\napp.register_blueprint(my_blueprint)\napp.register_blueprint(another_blueprint)\napp.register_blueprint(third_blueprint)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "app = Flask(__name__)\n# 첫 번째 블루프린트\nmy_blueprint = Blueprint('my_blueprint', __name__)\n@my_blueprint.route('/hello')\ndef hello():\n    return \"Hello from my blueprint!\"\n@my_blueprint.route('/greet/<name>')\ndef greet(name):\n    return f\"Hello, {name}!\"\n# 두 번째 블루프린트",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "my_blueprint",
+        "kind": 5,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "my_blueprint = Blueprint('my_blueprint', __name__)\n@my_blueprint.route('/hello')\ndef hello():\n    return \"Hello from my blueprint!\"\n@my_blueprint.route('/greet/<name>')\ndef greet(name):\n    return f\"Hello, {name}!\"\n# 두 번째 블루프린트\nanother_blueprint = Blueprint('another_blueprint', __name__, url_prefix='/another')\n# /another/world",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "another_blueprint",
+        "kind": 5,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "another_blueprint = Blueprint('another_blueprint', __name__, url_prefix='/another')\n# /another/world\n@another_blueprint.route('/world')\ndef world():\n    return \"Hello, world, from another blueprint!\"\n# /another/echo\n@another_blueprint.route('/echo', methods=['POST'])\ndef echo():\n    data = request.json\n    return f\"Received: {data}\"",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "third_blueprint",
+        "kind": 5,
+        "importPath": "week6_RC.action03.app",
+        "description": "week6_RC.action03.app",
+        "peekOfCode": "third_blueprint = Blueprint('third_blueprint', __name__, url_prefix='/third')\n@third_blueprint.route('/bye')\ndef goodbye():\n    return \"Goodbye from the third blueprint!\"\n# 애플리케이션에 블루프린트 등록\napp.register_blueprint(my_blueprint)\napp.register_blueprint(another_blueprint)\napp.register_blueprint(third_blueprint)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action03.app",
+        "documentation": {}
+    },
+    {
+        "label": "ItemSchema",
+        "kind": 6,
+        "importPath": "week6_RC.action03.schemas",
+        "description": "week6_RC.action03.schemas",
+        "peekOfCode": "class ItemSchema(Schema):\n\t\t# id 필드가 직렬화(즉, Python 객체에서 JSON으로 변환) 과정에서만 사용되고, (서버->클라)\n\t\t# 역직렬화(즉, JSON에서 Python 객체로 변환) 과정에서는 무시된다 (클라->서버)\n\t\t# 즉, id 값은 서버에서 관리하겠다는 뜻\n    id = fields.Int(dump_only=True)\n    name = fields.Str(required=True)\n    description = fields.Str()",
+        "detail": "week6_RC.action03.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "week6_RC.action01",
+        "description": "week6_RC.action01",
+        "peekOfCode": "def index():\n    return jsonify(message = \"Hello, OZ BE14!\")\n#GET\n# 1 전체 게시글 불러오는 API\n@app.route('/api/v1/feeds', methods = ['GET'])\ndef show_all_feeds():\n    data = {'result':'success', 'data': {\"feed1\":\"data\", \"feed2\":\"data2\"}}\n# 2 특정 게시글을 불러오는 API\n@app.route('/api/v1/feeds/<int:feed_id>', methods = ['GET'])\ndef show_one_feed(feed_id):",
+        "detail": "week6_RC.action01",
+        "documentation": {}
+    },
+    {
+        "label": "show_all_feeds",
+        "kind": 2,
+        "importPath": "week6_RC.action01",
+        "description": "week6_RC.action01",
+        "peekOfCode": "def show_all_feeds():\n    data = {'result':'success', 'data': {\"feed1\":\"data\", \"feed2\":\"data2\"}}\n# 2 특정 게시글을 불러오는 API\n@app.route('/api/v1/feeds/<int:feed_id>', methods = ['GET'])\ndef show_one_feed(feed_id):\n    print(feed_id)\n    return jsonify({'result': 'success', 'data': {\"feed1\": \"data\"}})\n#POST\n# 3 게시글 작성하는 API\n@app.route('/api/v1/feeds', methods = ['POST'])",
+        "detail": "week6_RC.action01",
+        "documentation": {}
+    },
+    {
+        "label": "show_one_feed",
+        "kind": 2,
+        "importPath": "week6_RC.action01",
+        "description": "week6_RC.action01",
+        "peekOfCode": "def show_one_feed(feed_id):\n    print(feed_id)\n    return jsonify({'result': 'success', 'data': {\"feed1\": \"data\"}})\n#POST\n# 3 게시글 작성하는 API\n@app.route('/api/v1/feeds', methods = ['POST'])\ndef create_one_feed():\n    name = request.form['name']\n    age = request.form['age']\n    print(name, age)",
+        "detail": "week6_RC.action01",
+        "documentation": {}
+    },
+    {
+        "label": "create_one_feed",
+        "kind": 2,
+        "importPath": "week6_RC.action01",
+        "description": "week6_RC.action01",
+        "peekOfCode": "def create_one_feed():\n    name = request.form['name']\n    age = request.form['age']\n    print(name, age)\n    return jsonify({'result': 'success'})\n@app.get(\"/datas\")\ndef get_datas():\n    return {'datas': datas}\n@app.post(\"/datas\")\ndef create_data():",
+        "detail": "week6_RC.action01",
+        "documentation": {}
+    },
+    {
+        "label": "get_datas",
+        "kind": 2,
+        "importPath": "week6_RC.action01",
+        "description": "week6_RC.action01",
+        "peekOfCode": "def get_datas():\n    return {'datas': datas}\n@app.post(\"/datas\")\ndef create_data():\n    request_data = request.get_json()\n    new_data = {'items': request_data.get(\"items\", [])}\n    datas.append(new_data)\n    return new_data, 201\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action01",
+        "documentation": {}
+    },
+    {
+        "label": "create_data",
+        "kind": 2,
+        "importPath": "week6_RC.action01",
+        "description": "week6_RC.action01",
+        "peekOfCode": "def create_data():\n    request_data = request.get_json()\n    new_data = {'items': request_data.get(\"items\", [])}\n    datas.append(new_data)\n    return new_data, 201\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "week6_RC.action01",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "week6_RC.action01",
+        "description": "week6_RC.action01",
+        "peekOfCode": "app = Flask(__name__)\ndatas = [{\"name\": \"item1\", \"price\": 10}]\n@app.route('/')\ndef index():\n    return jsonify(message = \"Hello, OZ BE14!\")\n#GET\n# 1 전체 게시글 불러오는 API\n@app.route('/api/v1/feeds', methods = ['GET'])\ndef show_all_feeds():\n    data = {'result':'success', 'data': {\"feed1\":\"data\", \"feed2\":\"data2\"}}",
+        "detail": "week6_RC.action01",
+        "documentation": {}
+    },
+    {
+        "label": "datas",
+        "kind": 5,
+        "importPath": "week6_RC.action01",
+        "description": "week6_RC.action01",
+        "peekOfCode": "datas = [{\"name\": \"item1\", \"price\": 10}]\n@app.route('/')\ndef index():\n    return jsonify(message = \"Hello, OZ BE14!\")\n#GET\n# 1 전체 게시글 불러오는 API\n@app.route('/api/v1/feeds', methods = ['GET'])\ndef show_all_feeds():\n    data = {'result':'success', 'data': {\"feed1\":\"data\", \"feed2\":\"data2\"}}\n# 2 특정 게시글을 불러오는 API",
+        "detail": "week6_RC.action01",
+        "documentation": {}
+    },
+    {
+        "label": "Item",
+        "kind": 6,
+        "importPath": "week6_RC.action02",
+        "description": "week6_RC.action02",
+        "peekOfCode": "class Item(Resource):\n    # 특정 아이템 조회\n    def get(self, name):\n        for item in items:\n            if item['name'] == name:\n                return item\n        return {'message': 'Item not found'}, 404\n    # 새 아이템 추가\n    def post(self, name):\n        for item in items:",
+        "detail": "week6_RC.action02",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "week6_RC.action02",
+        "description": "week6_RC.action02",
+        "peekOfCode": "def index():\n    return jsonify(message = \"Hello, OZ BE14!\")\nclass Item(Resource):\n    # 특정 아이템 조회\n    def get(self, name):\n        for item in items:\n            if item['name'] == name:\n                return item\n        return {'message': 'Item not found'}, 404\n    # 새 아이템 추가",
+        "detail": "week6_RC.action02",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "week6_RC.action02",
+        "description": "week6_RC.action02",
+        "peekOfCode": "app = Flask(__name__)\napi = Api(app)\nitems = [] # 간단한 데이터베이스 역할 수행하는 리스트\n@app.route('/')\ndef index():\n    return jsonify(message = \"Hello, OZ BE14!\")\nclass Item(Resource):\n    # 특정 아이템 조회\n    def get(self, name):\n        for item in items:",
+        "detail": "week6_RC.action02",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "week6_RC.action02",
+        "description": "week6_RC.action02",
+        "peekOfCode": "api = Api(app)\nitems = [] # 간단한 데이터베이스 역할 수행하는 리스트\n@app.route('/')\ndef index():\n    return jsonify(message = \"Hello, OZ BE14!\")\nclass Item(Resource):\n    # 특정 아이템 조회\n    def get(self, name):\n        for item in items:\n            if item['name'] == name:",
+        "detail": "week6_RC.action02",
+        "documentation": {}
+    },
+    {
+        "label": "items",
+        "kind": 5,
+        "importPath": "week6_RC.action02",
+        "description": "week6_RC.action02",
+        "peekOfCode": "items = [] # 간단한 데이터베이스 역할 수행하는 리스트\n@app.route('/')\ndef index():\n    return jsonify(message = \"Hello, OZ BE14!\")\nclass Item(Resource):\n    # 특정 아이템 조회\n    def get(self, name):\n        for item in items:\n            if item['name'] == name:\n                return item",
+        "detail": "week6_RC.action02",
         "documentation": {}
     }
 ]
