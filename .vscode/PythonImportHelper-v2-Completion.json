@@ -1,0 +1,227 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "importPath": "markupsafe",
+        "description": "markupsafe",
+        "isExtraImport": true,
+        "detail": "markupsafe",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "assignment_0923.app",
+        "description": "assignment_0923.app",
+        "peekOfCode": "def index():\n    users = [\n        {\"username\": \"admin\", \"realname\": \"admin\"},\n        {\"username\": \"honeybadger\", \"realname\": \"Samuel\"},\n        {\"username\": \"hospital\", \"realname\": \"Max\"},\n        {\"username\": \"murder ink\", \"realname\": \"Rodney\"}\n    ]\n    return render_template('index.html', users=users)\nif __name__ == \"__main__\":\n    app.run(debug=True, port=5023)",
+        "detail": "assignment_0923.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "assignment_0923.app",
+        "description": "assignment_0923.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef index():\n    users = [\n        {\"username\": \"admin\", \"realname\": \"admin\"},\n        {\"username\": \"honeybadger\", \"realname\": \"Samuel\"},\n        {\"username\": \"hospital\", \"realname\": \"Max\"},\n        {\"username\": \"murder ink\", \"realname\": \"Rodney\"}\n    ]\n    return render_template('index.html', users=users)",
+        "detail": "assignment_0923.app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "Flask_liveclass.route.app.",
+        "description": "Flask_liveclass.route.app.",
+        "peekOfCode": "def home():\n    return \"Hello, This is Main Page!\"\n@app.route('/about')\ndef about():\n    return \"about page\"\n@app.route('/user/<username>')\n#동적으로 url 파라미터 값을 받아서 처리해 줌\ndef show_user_profile(username):\n    return f'UserName: {username}'\n@app.route('/test')",
+        "detail": "Flask_liveclass.route.app.",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "Flask_liveclass.route.app.",
+        "description": "Flask_liveclass.route.app.",
+        "peekOfCode": "def about():\n    return \"about page\"\n@app.route('/user/<username>')\n#동적으로 url 파라미터 값을 받아서 처리해 줌\ndef show_user_profile(username):\n    return f'UserName: {username}'\n@app.route('/test')\ndef test():\n    url = 'http://127.0.0.1:5000/submit'\n    data = 'test data'",
+        "detail": "Flask_liveclass.route.app.",
+        "documentation": {}
+    },
+    {
+        "label": "show_user_profile",
+        "kind": 2,
+        "importPath": "Flask_liveclass.route.app.",
+        "description": "Flask_liveclass.route.app.",
+        "peekOfCode": "def show_user_profile(username):\n    return f'UserName: {username}'\n@app.route('/test')\ndef test():\n    url = 'http://127.0.0.1:5000/submit'\n    data = 'test data'\n    request.post(url=url, data = data)\n    return response\n@app.route('/submit', methods = ['GET', 'POST', 'PUT', 'DELETE'])\ndef submit():",
+        "detail": "Flask_liveclass.route.app.",
+        "documentation": {}
+    },
+    {
+        "label": "test",
+        "kind": 2,
+        "importPath": "Flask_liveclass.route.app.",
+        "description": "Flask_liveclass.route.app.",
+        "peekOfCode": "def test():\n    url = 'http://127.0.0.1:5000/submit'\n    data = 'test data'\n    request.post(url=url, data = data)\n    return response\n@app.route('/submit', methods = ['GET', 'POST', 'PUT', 'DELETE'])\ndef submit():\n    print(request.method)\n    if request.method == 'GET':\n        print(\"GET method\")",
+        "detail": "Flask_liveclass.route.app.",
+        "documentation": {}
+    },
+    {
+        "label": "submit",
+        "kind": 2,
+        "importPath": "Flask_liveclass.route.app.",
+        "description": "Flask_liveclass.route.app.",
+        "peekOfCode": "def submit():\n    print(request.method)\n    if request.method == 'GET':\n        print(\"GET method\")\n    if request.method == \"POST\":\n        print(\"**POST method**\", request.data)\n    return \"success\"\n@app.route('/')\ndef index():\n    data = {",
+        "detail": "Flask_liveclass.route.app.",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flask_liveclass.route.app.",
+        "description": "Flask_liveclass.route.app.",
+        "peekOfCode": "def index():\n    data = {\n        'title' : 'Flask Jinja Template',\n        'user' : 'drewdrew',\n        'is_admin': True,\n        'items': ['Item1','Item2','Item3']\n    }\n    return render_template()\nif __name__ == \"__main__\":\n    app.run()",
+        "detail": "Flask_liveclass.route.app.",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.route.app.",
+        "description": "Flask_liveclass.route.app.",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/')\ndef home():\n    return \"Hello, This is Main Page!\"\n@app.route('/about')\ndef about():\n    return \"about page\"\n@app.route('/user/<username>')\n#동적으로 url 파라미터 값을 받아서 처리해 줌\ndef show_user_profile(username):",
+        "detail": "Flask_liveclass.route.app.",
+        "documentation": {}
+    },
+    {
+        "label": "hello_world",
+        "kind": 2,
+        "importPath": "Flask_liveclass.main",
+        "description": "Flask_liveclass.main",
+        "peekOfCode": "def hello_world():\n    return \"Hello, Flask!\"\n@app.route(\"/user/<name>\")\ndef greet(name):\n    return f\"{name}님, 환영합니다.\"\n@app.route(\"/hello\")\ndef hello():\n    return render_template(\"hello.html\", name = \"OZ\")\n@app.route(\"/user/<username>\")\ndef user(username):",
+        "detail": "Flask_liveclass.main",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "Flask_liveclass.main",
+        "description": "Flask_liveclass.main",
+        "peekOfCode": "def greet(name):\n    return f\"{name}님, 환영합니다.\"\n@app.route(\"/hello\")\ndef hello():\n    return render_template(\"hello.html\", name = \"OZ\")\n@app.route(\"/user/<username>\")\ndef user(username):\n    return render_template(\"hello.html\", username=username)\n@app.route()\ndef fruits():",
+        "detail": "Flask_liveclass.main",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "Flask_liveclass.main",
+        "description": "Flask_liveclass.main",
+        "peekOfCode": "def hello():\n    return render_template(\"hello.html\", name = \"OZ\")\n@app.route(\"/user/<username>\")\ndef user(username):\n    return render_template(\"hello.html\", username=username)\n@app.route()\ndef fruits():\n    fruits = [\"사과\",\"바나나\",\"딸기\",\"포도\"]\n    return render_template(\"fruits.html\", fruits=fruits)\n@app.route(\"/\")",
+        "detail": "Flask_liveclass.main",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 2,
+        "importPath": "Flask_liveclass.main",
+        "description": "Flask_liveclass.main",
+        "peekOfCode": "def user(username):\n    return render_template(\"hello.html\", username=username)\n@app.route()\ndef fruits():\n    fruits = [\"사과\",\"바나나\",\"딸기\",\"포도\"]\n    return render_template(\"fruits.html\", fruits=fruits)\n@app.route(\"/\")\ndef index():\n    return render_template('Index Page')\n@app.route(\"/hellobuddy\")",
+        "detail": "Flask_liveclass.main",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 2,
+        "importPath": "Flask_liveclass.main",
+        "description": "Flask_liveclass.main",
+        "peekOfCode": "def fruits():\n    fruits = [\"사과\",\"바나나\",\"딸기\",\"포도\"]\n    return render_template(\"fruits.html\", fruits=fruits)\n@app.route(\"/\")\ndef index():\n    return render_template('Index Page')\n@app.route(\"/hellobuddy\")\ndef hellobuddy():\n    name = request.args.get(\"name\",\"Flask\")\n    return render_template(\"hellobuddy.html\", name=name)",
+        "detail": "Flask_liveclass.main",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flask_liveclass.main",
+        "description": "Flask_liveclass.main",
+        "peekOfCode": "def index():\n    return render_template('Index Page')\n@app.route(\"/hellobuddy\")\ndef hellobuddy():\n    name = request.args.get(\"name\",\"Flask\")\n    return render_template(\"hellobuddy.html\", name=name)\nif __name__ == \"__main__\":\n    app.run(debug=True, port=5023)",
+        "detail": "Flask_liveclass.main",
+        "documentation": {}
+    },
+    {
+        "label": "hellobuddy",
+        "kind": 2,
+        "importPath": "Flask_liveclass.main",
+        "description": "Flask_liveclass.main",
+        "peekOfCode": "def hellobuddy():\n    name = request.args.get(\"name\",\"Flask\")\n    return render_template(\"hellobuddy.html\", name=name)\nif __name__ == \"__main__\":\n    app.run(debug=True, port=5023)",
+        "detail": "Flask_liveclass.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.main",
+        "description": "Flask_liveclass.main",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef hello_world():\n    return \"Hello, Flask!\"\n@app.route(\"/user/<name>\")\ndef greet(name):\n    return f\"{name}님, 환영합니다.\"\n@app.route(\"/hello\")\ndef hello():\n    return render_template(\"hello.html\", name = \"OZ\")",
+        "detail": "Flask_liveclass.main",
+        "documentation": {}
+    }
+]
