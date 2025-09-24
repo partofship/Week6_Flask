@@ -24,6 +24,54 @@
         "documentation": {}
     },
     {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
         "label": "Flask",
         "importPath": "flask",
         "description": "flask",
@@ -105,6 +153,30 @@
     },
     {
         "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
         "importPath": "flask",
         "description": "flask",
         "isExtraImport": true,
@@ -277,6 +349,22 @@
         "description": "flask",
         "isExtraImport": true,
         "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
         "documentation": {}
     },
     {
@@ -305,6 +393,30 @@
     },
     {
         "label": "abort",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
         "importPath": "flask_smorest",
         "description": "flask_smorest",
         "isExtraImport": true,
@@ -408,6 +520,102 @@
         "documentation": {}
     },
     {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Board",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Board",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "user_blp",
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "isExtraImport": true,
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "board_blp",
+        "importPath": "routes.board",
+        "description": "routes.board",
+        "isExtraImport": true,
+        "detail": "routes.board",
+        "documentation": {}
+    },
+    {
         "label": "Swagger",
         "importPath": "flasgger",
         "description": "flasgger",
@@ -437,6 +645,135 @@
         "description": "markupsafe",
         "isExtraImport": true,
         "detail": "markupsafe",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
         "documentation": {}
     },
     {
@@ -591,6 +928,195 @@
         "documentation": {}
     },
     {
+        "label": "BoardList",
+        "kind": 6,
+        "importPath": "FlaskDB.routes.board",
+        "description": "FlaskDB.routes.board",
+        "peekOfCode": "class BoardList(MethodView):\n    def get(self):\n        boards = Board.query.all()\n        return jsonify([{\"user_id\": board.user_id, \n                        \"id\": board.id,\n                        \"title\": board.title, \"content\": board.content, \"author\": board.author.name} for board in boards])\n    def post(self):\n        data = request.json\n        new_board = Board(title=data['title'], content=data['content'], user_id=data['user_id'])\n        db.session.add(new_board)",
+        "detail": "FlaskDB.routes.board",
+        "documentation": {}
+    },
+    {
+        "label": "BoardResource",
+        "kind": 6,
+        "importPath": "FlaskDB.routes.board",
+        "description": "FlaskDB.routes.board",
+        "peekOfCode": "class BoardResource(MethodView):\n    def get(self, board_id):\n        board = Board.query.get_or_404(board_id)\n        return jsonify({\"title\": board.title, \"content\": board.content, \"author\": board.author.name})\n    def put(self, board_id):\n        board = Board.query.get_or_404(board_id)\n        data = request.json\n        board.title = data['title']\n        board.content = data['content']\n        db.session.commit()",
+        "detail": "FlaskDB.routes.board",
+        "documentation": {}
+    },
+    {
+        "label": "board_blp",
+        "kind": 5,
+        "importPath": "FlaskDB.routes.board",
+        "description": "FlaskDB.routes.board",
+        "peekOfCode": "board_blp = Blueprint('Boards', 'boards', description='Operations on boards', url_prefix='/board')\n@board_blp.route('/')\nclass BoardList(MethodView):\n    def get(self):\n        boards = Board.query.all()\n        return jsonify([{\"user_id\": board.user_id, \n                        \"id\": board.id,\n                        \"title\": board.title, \"content\": board.content, \"author\": board.author.name} for board in boards])\n    def post(self):\n        data = request.json",
+        "detail": "FlaskDB.routes.board",
+        "documentation": {}
+    },
+    {
+        "label": "UserList",
+        "kind": 6,
+        "importPath": "FlaskDB.routes.users",
+        "description": "FlaskDB.routes.users",
+        "peekOfCode": "class UserList(MethodView):\n    def get(self):\n        users = User.query.all()\n        user_data = [{\"id\":user.id, \"name\": user.name, \"email\": user.email} for user in users]  # Convert to list\n        return jsonify(user_data)\n    def post(self):\n        print(\"요청은 오는가?\")\n        user_data = request.json\n        new_user = User(name=user_data['name'], email=user_data['email'])\n        db.session.add(new_user)",
+        "detail": "FlaskDB.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "FlaskDB.routes.users",
+        "description": "FlaskDB.routes.users",
+        "peekOfCode": "class Users(MethodView):\n    def get(self, user_id):\n        user = User.query.get_or_404(user_id)\n        return {\"name\": user.name, 'email': user.email}\n    def put(self, user_id):\n        user = User.query.get_or_404(user_id)\n        user_data = request.json\n        user.name = user_data['name']\n        user.email = user_data['email']\n        db.session.commit()",
+        "detail": "FlaskDB.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "user_blp",
+        "kind": 5,
+        "importPath": "FlaskDB.routes.users",
+        "description": "FlaskDB.routes.users",
+        "peekOfCode": "user_blp = Blueprint('Users', 'users', description='Operations on users', url_prefix='/users')\n@user_blp.route('/')\nclass UserList(MethodView):\n    def get(self):\n        users = User.query.all()\n        user_data = [{\"id\":user.id, \"name\": user.name, \"email\": user.email} for user in users]  # Convert to list\n        return jsonify(user_data)\n    def post(self):\n        print(\"요청은 오는가?\")\n        user_data = request.json",
+        "detail": "FlaskDB.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "manage_boards",
+        "kind": 2,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "def manage_boards():\n    return render_template('boards.html')\n@app.route('/manage-users')\ndef manage_users():\n    return render_template('users.html')\nif __name__ == '__main__':\n    with app.app_context():\n        print(\"여기 실행?\")\n        db.create_all()\n    app.run(debug=True)",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "manage_users",
+        "kind": 2,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "def manage_users():\n    return render_template('users.html')\nif __name__ == '__main__':\n    with app.app_context():\n        print(\"여기 실행?\")\n        db.create_all()\n    app.run(debug=True)",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app = Flask(__name__)\napp.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_TITLE\"]",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_VERSION\"]",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_VERSION\"]",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_URL_PREFIX\"]",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template\n@app.route('/manage-boards')",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"]",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template\n@app.route('/manage-boards')\ndef manage_boards():",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_URL\"]",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template\n@app.route('/manage-boards')\ndef manage_boards():\n    return render_template('boards.html')",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "api = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template\n@app.route('/manage-boards')\ndef manage_boards():\n    return render_template('boards.html')\n@app.route('/manage-users')\ndef manage_users():\n    return render_template('users.html')",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "FlaskDB.db",
+        "description": "FlaskDB.db",
+        "peekOfCode": "db = SQLAlchemy()",
+        "detail": "FlaskDB.db",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "FlaskDB.models",
+        "description": "FlaskDB.models",
+        "peekOfCode": "class User(db.Model):\n    __tablename__ = \"users\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(100), unique=True, nullable=False)\n    email = db.Column(db.String(100), unique=True, nullable=False)\n    boards = db.relationship('Board', back_populates='author', lazy='dynamic')\n\t# address = db.Column(db.String(120), unique=True, nullable=False)  # 추가된 필드\nclass Board(db.Model):\n    __tablename__ = \"boards\"\n    id = db.Column(db.Integer, primary_key=True)",
+        "detail": "FlaskDB.models",
+        "documentation": {}
+    },
+    {
+        "label": "Board",
+        "kind": 6,
+        "importPath": "FlaskDB.models",
+        "description": "FlaskDB.models",
+        "peekOfCode": "class Board(db.Model):\n    __tablename__ = \"boards\"\n    id = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(100), nullable=False)\n    content = db.Column(db.String(200))\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id'), nullable=False)\n    author = db.relationship('User', back_populates='boards')",
+        "detail": "FlaskDB.models",
+        "documentation": {}
+    },
+    {
         "label": "index",
         "kind": 2,
         "importPath": "Flask_liveclass.0923.action02",
@@ -741,6 +1267,222 @@
         "description": "Flask_liveclass.0923.active01",
         "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef index():\n    return render_template('index.html')\n@app.route(\"/survey\")\ndef survey():\n    #설문 문항\n    questions = [\n        \"오늘 기분은:\",\n        \"어제 수업은:\",",
         "detail": "Flask_liveclass.0923.active01",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action01",
+        "description": "Flask_liveclass.0924.action01",
+        "peekOfCode": "DATABASE_URL = \"sqlite:///./test.db\"\nengine = create_engine(DATABASE_URL, echo = True)\nBase = declarative_base()\nSessionLocal = sessionmaker(bind = engine)\n# 테이블 생성\nBase.metadata.create_all(bind=engine)",
+        "detail": "Flask_liveclass.0924.action01",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action01",
+        "description": "Flask_liveclass.0924.action01",
+        "peekOfCode": "engine = create_engine(DATABASE_URL, echo = True)\nBase = declarative_base()\nSessionLocal = sessionmaker(bind = engine)\n# 테이블 생성\nBase.metadata.create_all(bind=engine)",
+        "detail": "Flask_liveclass.0924.action01",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action01",
+        "description": "Flask_liveclass.0924.action01",
+        "peekOfCode": "Base = declarative_base()\nSessionLocal = sessionmaker(bind = engine)\n# 테이블 생성\nBase.metadata.create_all(bind=engine)",
+        "detail": "Flask_liveclass.0924.action01",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action01",
+        "description": "Flask_liveclass.0924.action01",
+        "peekOfCode": "SessionLocal = sessionmaker(bind = engine)\n# 테이블 생성\nBase.metadata.create_all(bind=engine)",
+        "detail": "Flask_liveclass.0924.action01",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "Flask_liveclass.0924.action02",
+        "description": "Flask_liveclass.0924.action02",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key = True, index = True)\n    name = Column(String, nullable = False)\n    email = Column(String, unique = True, index = True)\n    #요건 디버깅용. 객체 프린트 예쁘게 하는 용도. __str__은 유저에게(=남에게) 보여주기 위한, 출력용.\n    def __repr__(self):\n        return f\"<User(id={self.id}, name='{self.name}`, email=`{self.email}`)>\"\n# 3. 데이터베이스 연결 (SQLite 사용)\nengine = create_engine(\"sqlite:///users.db\", echo = True)",
+        "detail": "Flask_liveclass.0924.action02",
+        "documentation": {}
+    },
+    {
+        "label": "run_practice",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0924.action02",
+        "description": "Flask_liveclass.0924.action02",
+        "peekOfCode": "def run_practice():\n    \"\"\"데이터베이스 실제 핸들링 코드\"\"\"\n    db = SessionLocal() #데이터베이스 쓸 거라는 선언\n    # 데이터 생성: create\n    # 이렇게 쓸 수도 있겠지만: db.add(User(name=\"OZ\"))\n    new_user = User(name=\"OZ\")\n    db.add(new_user)\n    db.commit\n    # 데이터 조회Read\n    # SELECT * FROM ~ 이 밑에 있는 query()에 해당하는것",
+        "detail": "Flask_liveclass.0924.action02",
+        "documentation": {}
+    },
+    {
+        "label": "run_single",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0924.action02",
+        "description": "Flask_liveclass.0924.action02",
+        "peekOfCode": "def run_single():\n    \"\"\"데이터베이스 실제 핸들링 코드\"\"\"\n    db = SessionLocal() #데이터베이스 쓸 거라는 선언\n    # 데이터 생성: create\n    new_user = User(name=\"OZ\")\n    db.add(new_user)\n    db.commit\n    # 데이터 조회Read\n    users = db.query(User).all() \n    # 여러 유저 동시 조회",
+        "detail": "Flask_liveclass.0924.action02",
+        "documentation": {}
+    },
+    {
+        "label": "run_bulk",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0924.action02",
+        "description": "Flask_liveclass.0924.action02",
+        "peekOfCode": "def run_bulk():\n    db = SessionLocal()\n    # create\n    # single_add는: db.add(User(name=\"OZ\"))\n    # 복수로 등록은?\n    # db.add_all([\n    #    User(name=\"한율\"),\n    #    User(name=\"조교\"),\n    #    User(name=\"god\"),\n    #    User(name=\"천사\"),",
+        "detail": "Flask_liveclass.0924.action02",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action02",
+        "description": "Flask_liveclass.0924.action02",
+        "peekOfCode": "Base = declarative_base()\n#2. 테이블 정의: User 모델\nclass User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key = True, index = True)\n    name = Column(String, nullable = False)\n    email = Column(String, unique = True, index = True)\n    #요건 디버깅용. 객체 프린트 예쁘게 하는 용도. __str__은 유저에게(=남에게) 보여주기 위한, 출력용.\n    def __repr__(self):\n        return f\"<User(id={self.id}, name='{self.name}`, email=`{self.email}`)>\"",
+        "detail": "Flask_liveclass.0924.action02",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action02",
+        "description": "Flask_liveclass.0924.action02",
+        "peekOfCode": "engine = create_engine(\"sqlite:///users.db\", echo = True)\n# 이제 users.db가 생성될 것임.\n# 4. 테이블 생성\nBase.metadata.create_all(bind=engine)\n# 4번에서 이미 테이블이 있을때 바인딩만 해주는거랑 새로 생성하는거랑 다를까요?\n# 아니면 원래 바인딩이 기능인데 해당 테이블이 없으면 새로 만들어주는걸까요?\n# \n# 5. session 준비\nSessionLocal = sessionmaker(bind=engine)\ndef run_practice():",
+        "detail": "Flask_liveclass.0924.action02",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action02",
+        "description": "Flask_liveclass.0924.action02",
+        "peekOfCode": "SessionLocal = sessionmaker(bind=engine)\ndef run_practice():\n    \"\"\"데이터베이스 실제 핸들링 코드\"\"\"\n    db = SessionLocal() #데이터베이스 쓸 거라는 선언\n    # 데이터 생성: create\n    # 이렇게 쓸 수도 있겠지만: db.add(User(name=\"OZ\"))\n    new_user = User(name=\"OZ\")\n    db.add(new_user)\n    db.commit\n    # 데이터 조회Read",
+        "detail": "Flask_liveclass.0924.action02",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "class Todo(Base):\n    __tablename__ = \"todos\"\n    id = Column(Integer, primary_key = True, index = True)\n    task = Column(String, nullable = False)\n    def __repr__(self):\n        return f\"<Todo(id={self.id}, task='{self.task}`)>\"\nBase.metadata.create_all(bind=engine)\n# todos = {\n#     1: \"Velog 작성\",\n#     2: \"수준별학습 과제\",",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "get_todos",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "def get_todos():\n    db = SessionLocal()\n    todos = db.query(Todo).all()\n    db.close()   # db가 항상 닫혀있어야 하기 때문에 위에서 먼저 올리는거임\n    # return jsonify(todos) 으로 처리해도 되지만 ↓이 더 이쁨\n    return jsonify([{\"id\": t.id, \"task\": t.task} for t in todos])\n#2. 특정 항목 조회: GET\n@app.route(\"/todos/<int:todo_id>\", methods=[\"GET\"])\ndef get_todo(todo_id):\n    db = SessionLocal()",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "get_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "def get_todo(todo_id):\n    db = SessionLocal()\n    todo = db.query(Todo).get(todo_id)\n    db.close()\n    if not todo:\n        return jsonify({\"error\": \"Todo not found\"}), 404\n    return jsonify({\"id\": todo.id, \"task\": todo.task})\n#3. 항목 추가: POST\n@app.route(\"/todos\", methods = [\"POST\"])\ndef create_todo():",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "create_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "def create_todo():\n    data = request.get_json()\n    db = SessionLocal()\n    # 데이터 삽입\n    new_todo = Todo(task=data[\"task\"])\n    db.add(new_todo)\n    db.commit()\n    db.refresh(new_todo)  #commit 이후로 자동 생성된 id 불러오기\n    db.close()\n    return jsonify({\"id\": new_todo.id, \"task\": new_todo.task}), 201",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "update_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "def update_todo(todo_id):\n    data = request.get_json()\n    db = SessionLocal()\n    # db에서 항목 찾기\n    todo = db.query(Todo).get(todo_id)\n    if not todo: #못 찾으면? 404 반환\n        db.close()\n        return jsonify({\"error\": \"Todo not found\"}), 404\n    # 있으면 이렇게, 데이터가 있으니 업데이트\n    todo.task = data[\"task\"]",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "delete_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "def delete_todo(todo_id):\n    db = SessionLocal()\n    # db에서 항목 찾기\n    todo = db.query(Todo).get(todo_id)\n    if not todo: # 데이터 없을 시 바로 db close\n        db.close()\n        return jsonify({\"error\": \"Todo not found\"}, 404)\n    # 데이터 삭제\n    db.delete(todo)\n    db.commit()",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "app = Flask(__name__)\n## db 설정 ##\nBASE_DIR = os.path.dirname(__file__)\nINSTANCE_DIR = os.path.join(BASE_DIR, \"instance\")\nos.makedirs(INSTANCE_DIR, exist_ok=True)\nDATABASE_URL = f\"sqlite:///{os.path.join(INSTANCE_DIR, \"todos.db\")}\"\nengine = create_engine(\n    DATABASE_URL,\n    echo=True\n)",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "BASE_DIR = os.path.dirname(__file__)\nINSTANCE_DIR = os.path.join(BASE_DIR, \"instance\")\nos.makedirs(INSTANCE_DIR, exist_ok=True)\nDATABASE_URL = f\"sqlite:///{os.path.join(INSTANCE_DIR, \"todos.db\")}\"\nengine = create_engine(\n    DATABASE_URL,\n    echo=True\n)\n# session 준비\nSessionLocal = sessionmaker(bind=engine)",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "INSTANCE_DIR",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "INSTANCE_DIR = os.path.join(BASE_DIR, \"instance\")\nos.makedirs(INSTANCE_DIR, exist_ok=True)\nDATABASE_URL = f\"sqlite:///{os.path.join(INSTANCE_DIR, \"todos.db\")}\"\nengine = create_engine(\n    DATABASE_URL,\n    echo=True\n)\n# session 준비\nSessionLocal = sessionmaker(bind=engine)\n##모델 정의##",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "DATABASE_URL = f\"sqlite:///{os.path.join(INSTANCE_DIR, \"todos.db\")}\"\nengine = create_engine(\n    DATABASE_URL,\n    echo=True\n)\n# session 준비\nSessionLocal = sessionmaker(bind=engine)\n##모델 정의##\nBase = declarative_base()\nclass Todo(Base):",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "engine = create_engine(\n    DATABASE_URL,\n    echo=True\n)\n# session 준비\nSessionLocal = sessionmaker(bind=engine)\n##모델 정의##\nBase = declarative_base()\nclass Todo(Base):\n    __tablename__ = \"todos\"",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "SessionLocal = sessionmaker(bind=engine)\n##모델 정의##\nBase = declarative_base()\nclass Todo(Base):\n    __tablename__ = \"todos\"\n    id = Column(Integer, primary_key = True, index = True)\n    task = Column(String, nullable = False)\n    def __repr__(self):\n        return f\"<Todo(id={self.id}, task='{self.task}`)>\"\nBase.metadata.create_all(bind=engine)",
+        "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0924.action03",
+        "description": "Flask_liveclass.0924.action03",
+        "peekOfCode": "Base = declarative_base()\nclass Todo(Base):\n    __tablename__ = \"todos\"\n    id = Column(Integer, primary_key = True, index = True)\n    task = Column(String, nullable = False)\n    def __repr__(self):\n        return f\"<Todo(id={self.id}, task='{self.task}`)>\"\nBase.metadata.create_all(bind=engine)\n# todos = {\n#     1: \"Velog 작성\",",
+        "detail": "Flask_liveclass.0924.action03",
         "documentation": {}
     },
     {
