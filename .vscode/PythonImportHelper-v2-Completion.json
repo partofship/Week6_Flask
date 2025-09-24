@@ -16,6 +16,54 @@
         "documentation": {}
     },
     {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
         "label": "Flask",
         "importPath": "flask",
         "description": "flask",
@@ -384,6 +432,46 @@
         "documentation": {}
     },
     {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_smorest",
+        "description": "flask_smorest",
+        "isExtraImport": true,
+        "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
         "label": "Blueprint",
         "importPath": "flask_smorest",
         "description": "flask_smorest",
@@ -453,6 +541,198 @@
         "description": "flask_smorest",
         "isExtraImport": true,
         "detail": "flask_smorest",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Board",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Board",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Board",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Board",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "user_blp",
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "isExtraImport": true,
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "user_blp",
+        "importPath": "routes.users",
+        "description": "routes.users",
+        "isExtraImport": true,
+        "detail": "routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "board_blp",
+        "importPath": "routes.board",
+        "description": "routes.board",
+        "isExtraImport": true,
+        "detail": "routes.board",
+        "documentation": {}
+    },
+    {
+        "label": "board_blp",
+        "importPath": "routes.board",
+        "description": "routes.board",
+        "isExtraImport": true,
+        "detail": "routes.board",
         "documentation": {}
     },
     {
@@ -517,102 +797,6 @@
         "description": "marshmallow",
         "isExtraImport": true,
         "detail": "marshmallow",
-        "documentation": {}
-    },
-    {
-        "label": "db",
-        "importPath": "db",
-        "description": "db",
-        "isExtraImport": true,
-        "detail": "db",
-        "documentation": {}
-    },
-    {
-        "label": "db",
-        "importPath": "db",
-        "description": "db",
-        "isExtraImport": true,
-        "detail": "db",
-        "documentation": {}
-    },
-    {
-        "label": "db",
-        "importPath": "db",
-        "description": "db",
-        "isExtraImport": true,
-        "detail": "db",
-        "documentation": {}
-    },
-    {
-        "label": "db",
-        "importPath": "db",
-        "description": "db",
-        "isExtraImport": true,
-        "detail": "db",
-        "documentation": {}
-    },
-    {
-        "label": "Board",
-        "importPath": "models",
-        "description": "models",
-        "isExtraImport": true,
-        "detail": "models",
-        "documentation": {}
-    },
-    {
-        "label": "User",
-        "importPath": "models",
-        "description": "models",
-        "isExtraImport": true,
-        "detail": "models",
-        "documentation": {}
-    },
-    {
-        "label": "User",
-        "importPath": "models",
-        "description": "models",
-        "isExtraImport": true,
-        "detail": "models",
-        "documentation": {}
-    },
-    {
-        "label": "Board",
-        "importPath": "models",
-        "description": "models",
-        "isExtraImport": true,
-        "detail": "models",
-        "documentation": {}
-    },
-    {
-        "label": "SQLAlchemy",
-        "importPath": "flask_sqlalchemy",
-        "description": "flask_sqlalchemy",
-        "isExtraImport": true,
-        "detail": "flask_sqlalchemy",
-        "documentation": {}
-    },
-    {
-        "label": "SQLAlchemy",
-        "importPath": "flask_sqlalchemy",
-        "description": "flask_sqlalchemy",
-        "isExtraImport": true,
-        "detail": "flask_sqlalchemy",
-        "documentation": {}
-    },
-    {
-        "label": "user_blp",
-        "importPath": "routes.users",
-        "description": "routes.users",
-        "isExtraImport": true,
-        "detail": "routes.users",
-        "documentation": {}
-    },
-    {
-        "label": "board_blp",
-        "importPath": "routes.board",
-        "description": "routes.board",
-        "isExtraImport": true,
-        "detail": "routes.board",
         "documentation": {}
     },
     {
@@ -808,6 +992,195 @@
         "description": "assignment_0923.app",
         "peekOfCode": "app = Flask(__name__)\n@app.route(\"/\")\ndef index():\n    users = [\n        {\"username\": \"admin\", \"realname\": \"admin\"},\n        {\"username\": \"honeybadger\", \"realname\": \"Samuel\"},\n        {\"username\": \"hospital\", \"realname\": \"Max\"},\n        {\"username\": \"murder ink\", \"realname\": \"Rodney\"}\n    ]\n    return render_template('index.html', users=users)",
         "detail": "assignment_0923.app",
+        "documentation": {}
+    },
+    {
+        "label": "BoardList",
+        "kind": 6,
+        "importPath": "assignment_0924.routes.board",
+        "description": "assignment_0924.routes.board",
+        "peekOfCode": "class BoardList(MethodView):\n    def get(self):\n        boards = Board.query.all()\n        return jsonify([{\"user_id\": board.user_id, \n                        \"id\": board.id,\n                        \"title\": board.title, \"content\": board.content, \"author\": board.author.name} for board in boards])\n    def post(self):\n        data = request.json\n        new_board = Board(title=data['title'], content=data['content'], user_id=data['user_id'])\n        db.session.add(new_board)",
+        "detail": "assignment_0924.routes.board",
+        "documentation": {}
+    },
+    {
+        "label": "BoardResource",
+        "kind": 6,
+        "importPath": "assignment_0924.routes.board",
+        "description": "assignment_0924.routes.board",
+        "peekOfCode": "class BoardResource(MethodView):\n    def get(self, board_id):\n        board = Board.query.get_or_404(board_id)\n        return jsonify({\"title\": board.title, \"content\": board.content, \"author\": board.author.name})\n    def put(self, board_id):\n        board = Board.query.get_or_404(board_id)\n        data = request.json\n        board.title = data['title']\n        board.content = data['content']\n        db.session.commit()",
+        "detail": "assignment_0924.routes.board",
+        "documentation": {}
+    },
+    {
+        "label": "board_blp",
+        "kind": 5,
+        "importPath": "assignment_0924.routes.board",
+        "description": "assignment_0924.routes.board",
+        "peekOfCode": "board_blp = Blueprint('Boards', 'boards', description='Operations on boards', url_prefix='/board')\n@board_blp.route('/')\nclass BoardList(MethodView):\n    def get(self):\n        boards = Board.query.all()\n        return jsonify([{\"user_id\": board.user_id, \n                        \"id\": board.id,\n                        \"title\": board.title, \"content\": board.content, \"author\": board.author.name} for board in boards])\n    def post(self):\n        data = request.json",
+        "detail": "assignment_0924.routes.board",
+        "documentation": {}
+    },
+    {
+        "label": "UserList",
+        "kind": 6,
+        "importPath": "assignment_0924.routes.users",
+        "description": "assignment_0924.routes.users",
+        "peekOfCode": "class UserList(MethodView):\n    def get(self):\n        users = User.query.all()\n        user_data = [{\"id\":user.id, \"name\": user.name, \"email\": user.email} for user in users]  # Convert to list\n        return jsonify(user_data)\n    def post(self):\n        print(\"요청은 오는가?\")\n        user_data = request.json\n        new_user = User(name=user_data['name'], email=user_data['email'])\n        db.session.add(new_user)",
+        "detail": "assignment_0924.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "assignment_0924.routes.users",
+        "description": "assignment_0924.routes.users",
+        "peekOfCode": "class Users(MethodView):\n    def get(self, user_id):\n        user = User.query.get_or_404(user_id)\n        return {\"name\": user.name, 'email': user.email}\n    def put(self, user_id):\n        user = User.query.get_or_404(user_id)\n        user_data = request.json\n        user.name = user_data['name']\n        user.email = user_data['email']\n        db.session.commit()",
+        "detail": "assignment_0924.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "user_blp",
+        "kind": 5,
+        "importPath": "assignment_0924.routes.users",
+        "description": "assignment_0924.routes.users",
+        "peekOfCode": "user_blp = Blueprint('Users', 'users', description='Operations on users', url_prefix='/users')\n@user_blp.route('/')\nclass UserList(MethodView):\n    def get(self):\n        users = User.query.all()\n        user_data = [{\"id\":user.id, \"name\": user.name, \"email\": user.email} for user in users]  # Convert to list\n        return jsonify(user_data)\n    def post(self):\n        print(\"요청은 오는가?\")\n        user_data = request.json",
+        "detail": "assignment_0924.routes.users",
+        "documentation": {}
+    },
+    {
+        "label": "manage_boards",
+        "kind": 2,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "def manage_boards():\n    return render_template('boards.html')\n@app.route('/manage-users')\ndef manage_users():\n    return render_template('users.html')\nif __name__ == '__main__':\n    with app.app_context():\n        print(\"여기 실행?\")\n        db.create_all()\n    app.run(debug=True)",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "manage_users",
+        "kind": 2,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "def manage_users():\n    return render_template('users.html')\nif __name__ == '__main__':\n    with app.app_context():\n        print(\"여기 실행?\")\n        db.create_all()\n    app.run(debug=True)",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app = Flask(__name__)\napp.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_TITLE\"]",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"API_VERSION\"]",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_VERSION\"]",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_URL_PREFIX\"]",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template\n@app.route('/manage-boards')",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"]",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template\n@app.route('/manage-boards')\ndef manage_boards():",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config[\"OPENAPI_SWAGGER_UI_URL\"]",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "app.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp\napi = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template\n@app.route('/manage-boards')\ndef manage_boards():\n    return render_template('boards.html')",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "api = Api(app)\napi.register_blueprint(user_blp)\napi.register_blueprint(board_blp)\nfrom flask import render_template\n@app.route('/manage-boards')\ndef manage_boards():\n    return render_template('boards.html')\n@app.route('/manage-users')\ndef manage_users():\n    return render_template('users.html')",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "assignment_0924.db",
+        "description": "assignment_0924.db",
+        "peekOfCode": "db = SQLAlchemy()",
+        "detail": "assignment_0924.db",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "assignment_0924.models",
+        "description": "assignment_0924.models",
+        "peekOfCode": "class User(db.Model):\n    __tablename__ = \"users\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(100), unique=True, nullable=False)\n    email = db.Column(db.String(100), unique=True, nullable=False)\n    boards = db.relationship('Board', back_populates='author', lazy='dynamic')\n\t# address = db.Column(db.String(120), unique=True, nullable=False)  # 추가된 필드\nclass Board(db.Model):\n    __tablename__ = \"boards\"\n    id = db.Column(db.Integer, primary_key=True)",
+        "detail": "assignment_0924.models",
+        "documentation": {}
+    },
+    {
+        "label": "Board",
+        "kind": 6,
+        "importPath": "assignment_0924.models",
+        "description": "assignment_0924.models",
+        "peekOfCode": "class Board(db.Model):\n    __tablename__ = \"boards\"\n    id = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(100), nullable=False)\n    content = db.Column(db.String(200))\n    user_id = db.Column(db.Integer, db.ForeignKey('users.id'), nullable=False)\n    author = db.relationship('User', back_populates='boards')",
+        "detail": "assignment_0924.models",
         "documentation": {}
     },
     {
