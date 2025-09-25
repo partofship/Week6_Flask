@@ -3,10 +3,14 @@ from flask_smorest import Api
 from flask_sqlalchemy import SQLAlchemy
 from db import db
 from models import User, Board
+from urllib.parse import quote_plus
+
 
 app = Flask(__name__)
+pw = quote_plus("l3yl3yp0rt@$")
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'
+app.config['SQLALCHEMY_DATABASE_URI'] = f'mysql+pymysql://root:{pw}@localhost/study01'
+# 디버깅 1) pw에 @가 들어가 있어서 인식 오류, fstring으로 해결 2) schema 없음으로 인해 접속 안 되던것, MySQL에서 스키마 생성으로 해결.
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요
 db.init_app(app)
 

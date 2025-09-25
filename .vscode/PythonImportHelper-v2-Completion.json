@@ -232,6 +232,110 @@
         "documentation": {}
     },
     {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
         "label": "Flask",
         "importPath": "flask",
         "description": "flask",
@@ -672,11 +776,19 @@
         "documentation": {}
     },
     {
-        "label": "SQLAlchemy",
-        "importPath": "flask_sqlalchemy",
-        "description": "flask_sqlalchemy",
+        "label": "SessionLocal",
+        "importPath": "models",
+        "description": "models",
         "isExtraImport": true,
-        "detail": "flask_sqlalchemy",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
         "documentation": {}
     },
     {
@@ -701,6 +813,30 @@
         "description": "flask_sqlalchemy",
         "isExtraImport": true,
         "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "quote_plus",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "quote_plus",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
         "documentation": {}
     },
     {
@@ -800,6 +936,14 @@
         "documentation": {}
     },
     {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
         "label": "Swagger",
         "importPath": "flasgger",
         "description": "flasgger",
@@ -833,6 +977,38 @@
     },
     {
         "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
         "importPath": "sqlalchemy",
         "description": "sqlalchemy",
         "isExtraImport": true,
@@ -952,12 +1128,94 @@
         "documentation": {}
     },
     {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "os",
         "description": "os",
         "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Sock",
+        "importPath": "flask_sock",
+        "description": "flask_sock",
+        "isExtraImport": true,
+        "detail": "flask_sock",
+        "documentation": {}
+    },
+    {
+        "label": "Sock",
+        "importPath": "flask_sock",
+        "description": "flask_sock",
+        "isExtraImport": true,
+        "detail": "flask_sock",
+        "documentation": {}
+    },
+    {
+        "label": "Sock",
+        "importPath": "flask_sock",
+        "description": "flask_sock",
+        "isExtraImport": true,
+        "detail": "flask_sock",
+        "documentation": {}
+    },
+    {
+        "label": "Sock",
+        "importPath": "flask_sock",
+        "description": "flask_sock",
+        "isExtraImport": true,
+        "detail": "flask_sock",
+        "documentation": {}
+    },
+    {
+        "label": "Sock",
+        "importPath": "flask_sock",
+        "description": "flask_sock",
+        "isExtraImport": true,
+        "detail": "flask_sock",
+        "documentation": {}
+    },
+    {
+        "label": "threading,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading.",
+        "description": "threading.",
+        "detail": "threading.",
+        "documentation": {}
+    },
+    {
+        "label": "requests,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests.",
+        "description": "requests.",
+        "detail": "requests.",
         "documentation": {}
     },
     {
@@ -1071,7 +1329,16 @@
         "kind": 5,
         "importPath": "assignment_0924.app",
         "description": "assignment_0924.app",
-        "peekOfCode": "app = Flask(__name__)\napp.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"",
+        "peekOfCode": "app = Flask(__name__)\npw = quote_plus(\"l3yl3yp0rt@$\")\napp.config['SQLALCHEMY_DATABASE_URI'] = f'mysql+pymysql://root:{pw}@localhost/study01'\n# 디버깅 1) pw에 @가 들어가 있어서 인식 오류, fstring으로 해결 2) schema 없음으로 인해 접속 안 되던것, MySQL에서 스키마 생성으로 해결.\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"",
+        "detail": "assignment_0924.app",
+        "documentation": {}
+    },
+    {
+        "label": "pw",
+        "kind": 5,
+        "importPath": "assignment_0924.app",
+        "description": "assignment_0924.app",
+        "peekOfCode": "pw = quote_plus(\"l3yl3yp0rt@$\")\napp.config['SQLALCHEMY_DATABASE_URI'] = f'mysql+pymysql://root:{pw}@localhost/study01'\n# 디버깅 1) pw에 @가 들어가 있어서 인식 오류, fstring으로 해결 2) schema 없음으로 인해 접속 안 되던것, MySQL에서 스키마 생성으로 해결.\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"",
         "detail": "assignment_0924.app",
         "documentation": {}
     },
@@ -1080,7 +1347,7 @@
         "kind": 5,
         "importPath": "assignment_0924.app",
         "description": "assignment_0924.app",
-        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = f'mysql+pymysql://root:{pw}@localhost/study01'\n# 디버깅 1) pw에 @가 들어가 있어서 인식 오류, fstring으로 해결 2) schema 없음으로 인해 접속 안 되던것, MySQL에서 스키마 생성으로 해결.\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"",
         "detail": "assignment_0924.app",
         "documentation": {}
     },
@@ -1377,7 +1644,16 @@
         "kind": 5,
         "importPath": "FlaskDB.app",
         "description": "FlaskDB.app",
-        "peekOfCode": "app = Flask(__name__)\napp.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"",
+        "peekOfCode": "app = Flask(__name__)\npw = quote_plus(\"l3yl3yp0rt@$\")\n# url문제 수정해야 하는데 일단 보류\napp.config['SQLALCHEMY_DATABASE_URI'] = f'mysql+pymysql://root:{pw}@localhost/study01'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\nmigrate = Migrate(app, db)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "pw",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "pw = quote_plus(\"l3yl3yp0rt@$\")\n# url문제 수정해야 하는데 일단 보류\napp.config['SQLALCHEMY_DATABASE_URI'] = f'mysql+pymysql://root:{pw}@localhost/study01'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\nmigrate = Migrate(app, db)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"",
         "detail": "FlaskDB.app",
         "documentation": {}
     },
@@ -1386,7 +1662,7 @@
         "kind": 5,
         "importPath": "FlaskDB.app",
         "description": "FlaskDB.app",
-        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:oz-password@localhost/oz'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = f'mysql+pymysql://root:{pw}@localhost/study01'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\nmigrate = Migrate(app, db)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"",
         "detail": "FlaskDB.app",
         "documentation": {}
     },
@@ -1395,7 +1671,16 @@
         "kind": 5,
         "importPath": "FlaskDB.app",
         "description": "FlaskDB.app",
-        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False    #True로 하면 리소스 많이 잡아먹어요\ndb.init_app(app)\nmigrate = Migrate(app, db)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"",
+        "detail": "FlaskDB.app",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "FlaskDB.app",
+        "description": "FlaskDB.app",
+        "peekOfCode": "migrate = Migrate(app, db)\n# bluepring 설정 및 등록\napp.config[\"API_TITLE\"] = \"My API\"\napp.config[\"API_VERSION\"] = \"v1\"\napp.config[\"OPENAPI_VERSION\"] = \"3.1.3\"\napp.config[\"OPENAPI_URL_PREFIX\"] = \"/\"\napp.config[\"OPENAPI_SWAGGER_UI_PATH\"] = \"/swagger-ui\"\napp.config[\"OPENAPI_SWAGGER_UI_URL\"] = \"https://cdn.jsdelivr.net/npm/swagger-ui-dist/\"\nfrom routes.users import user_blp\nfrom routes.board import board_blp",
         "detail": "FlaskDB.app",
         "documentation": {}
     },
@@ -1476,7 +1761,7 @@
         "kind": 6,
         "importPath": "FlaskDB.models",
         "description": "FlaskDB.models",
-        "peekOfCode": "class User(db.Model):\n    __tablename__ = \"users\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(100), unique=True, nullable=False)\n    email = db.Column(db.String(100), unique=True, nullable=False)\n    boards = db.relationship('Board', back_populates='author', lazy='dynamic')\n\t# address = db.Column(db.String(120), unique=True, nullable=False)  # 추가된 필드\nclass Board(db.Model):\n    __tablename__ = \"boards\"\n    id = db.Column(db.Integer, primary_key=True)",
+        "peekOfCode": "class User(db.Model):\n    __tablename__ = \"users\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(100), unique=True, nullable=False)\n    email = db.Column(db.String(100), unique=True, nullable=False)\n    address = db.Column(db.String(200), nullable=False)\n    boards = db.relationship('Board', back_populates='author', lazy='dynamic')\n\t# address = db.Column(db.String(120), unique=True, nullable=False)  # 추가된 필드\nclass Board(db.Model):\n    __tablename__ = \"boards\"",
         "detail": "FlaskDB.models",
         "documentation": {}
     },
@@ -1856,6 +2141,339 @@
         "description": "Flask_liveclass.0924.action03",
         "peekOfCode": "Base = declarative_base()\nclass Todo(Base):\n    __tablename__ = \"todos\"\n    id = Column(Integer, primary_key = True, index = True)\n    task = Column(String, nullable = False)\n    def __repr__(self):\n        return f\"<Todo(id={self.id}, task='{self.task}`)>\"\nBase.metadata.create_all(bind=engine)\n# todos = {\n#     1: \"Velog 작성\",",
         "detail": "Flask_liveclass.0924.action03",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "Flask_liveclass.0925.action.app.models",
+        "description": "Flask_liveclass.0925.action.app.models",
+        "peekOfCode": "class Todo(Base):\n    __tablename__ = \"todos\"\n    id = Column(Integer, primary_key = True, index = True)\n    task = Column(String, nullable = False)\n    def __repr__(self):\n        return f\"<Todo(id={self.id}, task='{self.task}`)>\"\nBase.metadata.create_all(bind=engine)",
+        "detail": "Flask_liveclass.0925.action.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app.models",
+        "description": "Flask_liveclass.0925.action.app.models",
+        "peekOfCode": "BASE_DIR = os.path.dirname(__file__)\nINSTANCE_DIR = os.path.join(BASE_DIR, \"instance\")\nos.makedirs(INSTANCE_DIR, exist_ok=True)\nDATABASE_URL = f\"sqlite:///{os.path.join(INSTANCE_DIR, \"todos.db\")}\"\nengine = create_engine(\n    DATABASE_URL,\n    echo=True\n)\n# session 준비\nSessionLocal = sessionmaker(bind=engine)",
+        "detail": "Flask_liveclass.0925.action.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "INSTANCE_DIR",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app.models",
+        "description": "Flask_liveclass.0925.action.app.models",
+        "peekOfCode": "INSTANCE_DIR = os.path.join(BASE_DIR, \"instance\")\nos.makedirs(INSTANCE_DIR, exist_ok=True)\nDATABASE_URL = f\"sqlite:///{os.path.join(INSTANCE_DIR, \"todos.db\")}\"\nengine = create_engine(\n    DATABASE_URL,\n    echo=True\n)\n# session 준비\nSessionLocal = sessionmaker(bind=engine)\n##모델 정의##",
+        "detail": "Flask_liveclass.0925.action.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app.models",
+        "description": "Flask_liveclass.0925.action.app.models",
+        "peekOfCode": "DATABASE_URL = f\"sqlite:///{os.path.join(INSTANCE_DIR, \"todos.db\")}\"\nengine = create_engine(\n    DATABASE_URL,\n    echo=True\n)\n# session 준비\nSessionLocal = sessionmaker(bind=engine)\n##모델 정의##\nBase = declarative_base()\nclass Todo(Base):",
+        "detail": "Flask_liveclass.0925.action.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app.models",
+        "description": "Flask_liveclass.0925.action.app.models",
+        "peekOfCode": "engine = create_engine(\n    DATABASE_URL,\n    echo=True\n)\n# session 준비\nSessionLocal = sessionmaker(bind=engine)\n##모델 정의##\nBase = declarative_base()\nclass Todo(Base):\n    __tablename__ = \"todos\"",
+        "detail": "Flask_liveclass.0925.action.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app.models",
+        "description": "Flask_liveclass.0925.action.app.models",
+        "peekOfCode": "SessionLocal = sessionmaker(bind=engine)\n##모델 정의##\nBase = declarative_base()\nclass Todo(Base):\n    __tablename__ = \"todos\"\n    id = Column(Integer, primary_key = True, index = True)\n    task = Column(String, nullable = False)\n    def __repr__(self):\n        return f\"<Todo(id={self.id}, task='{self.task}`)>\"\nBase.metadata.create_all(bind=engine)",
+        "detail": "Flask_liveclass.0925.action.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app.models",
+        "description": "Flask_liveclass.0925.action.app.models",
+        "peekOfCode": "Base = declarative_base()\nclass Todo(Base):\n    __tablename__ = \"todos\"\n    id = Column(Integer, primary_key = True, index = True)\n    task = Column(String, nullable = False)\n    def __repr__(self):\n        return f\"<Todo(id={self.id}, task='{self.task}`)>\"\nBase.metadata.create_all(bind=engine)",
+        "detail": "Flask_liveclass.0925.action.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_todos",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action.app.routes",
+        "description": "Flask_liveclass.0925.action.app.routes",
+        "peekOfCode": "def get_todos():\n    db = SessionLocal()\n    todos = db.query(Todo).all()\n    db.close()   # db가 항상 닫혀있어야 하기 때문에 위에서 먼저 올리는거임\n    # return jsonify(todos) 으로 처리해도 되지만 ↓이 더 이쁨\n    return jsonify([{\"id\": t.id, \"task\": t.task} for t in todos])\n#2. 특정 항목 조회: GET\n@todo_bp.route(\"/todos/<int:todo_id>\", methods=[\"GET\"])\ndef get_todo(todo_id):\n    db = SessionLocal()",
+        "detail": "Flask_liveclass.0925.action.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action.app.routes",
+        "description": "Flask_liveclass.0925.action.app.routes",
+        "peekOfCode": "def get_todo(todo_id):\n    db = SessionLocal()\n    todo = db.query(Todo).get(todo_id)\n    db.close()\n    if not todo:\n        return jsonify({\"error\": \"Todo not found\"}), 404\n    return jsonify({\"id\": todo.id, \"task\": todo.task})\n#3. 항목 추가: POST\n@todo_bp.route(\"/todos\", methods = [\"POST\"])\ndef create_todo():",
+        "detail": "Flask_liveclass.0925.action.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action.app.routes",
+        "description": "Flask_liveclass.0925.action.app.routes",
+        "peekOfCode": "def create_todo():\n    data = request.get_json()\n    db = SessionLocal()\n    # 데이터 삽입\n    new_todo = Todo(task=data[\"task\"])\n    db.add(new_todo)\n    db.commit()\n    db.refresh(new_todo)  #commit 이후로 자동 생성된 id 불러오기\n    db.close()\n    return jsonify({\"id\": new_todo.id, \"task\": new_todo.task}), 201",
+        "detail": "Flask_liveclass.0925.action.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action.app.routes",
+        "description": "Flask_liveclass.0925.action.app.routes",
+        "peekOfCode": "def update_todo(todo_id):\n    data = request.get_json()\n    db = SessionLocal()\n    # db에서 항목 찾기\n    todo = db.query(Todo).get(todo_id)\n    if not todo: #못 찾으면? 404 반환\n        db.close()\n        return jsonify({\"error\": \"Todo not found\"}), 404\n    # 있으면 이렇게, 데이터가 있으니 업데이트\n    todo.task = data[\"task\"]",
+        "detail": "Flask_liveclass.0925.action.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_todo",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action.app.routes",
+        "description": "Flask_liveclass.0925.action.app.routes",
+        "peekOfCode": "def delete_todo(todo_id):\n    db = SessionLocal()\n    # db에서 항목 찾기\n    todo = db.query(Todo).get(todo_id)\n    if not todo: # 데이터 없을 시 바로 db close\n        db.close()\n        return jsonify({\"error\": \"Todo not found\"}, 404)\n    # 데이터 삭제\n    db.delete(todo)\n    db.commit()",
+        "detail": "Flask_liveclass.0925.action.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "todo_bp",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app.routes",
+        "description": "Flask_liveclass.0925.action.app.routes",
+        "peekOfCode": "todo_bp = Blueprint(\"todo\", __name__)\nuser_bp = Blueprint(\"user\", __name__)\n# blueprint에 라우트 등록\n# 1. 전체 목록 조회(GET)\n@todo_bp.route(\"/todos\", methods = [\"GET\"])\ndef get_todos():\n    db = SessionLocal()\n    todos = db.query(Todo).all()\n    db.close()   # db가 항상 닫혀있어야 하기 때문에 위에서 먼저 올리는거임\n    # return jsonify(todos) 으로 처리해도 되지만 ↓이 더 이쁨",
+        "detail": "Flask_liveclass.0925.action.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "user_bp",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app.routes",
+        "description": "Flask_liveclass.0925.action.app.routes",
+        "peekOfCode": "user_bp = Blueprint(\"user\", __name__)\n# blueprint에 라우트 등록\n# 1. 전체 목록 조회(GET)\n@todo_bp.route(\"/todos\", methods = [\"GET\"])\ndef get_todos():\n    db = SessionLocal()\n    todos = db.query(Todo).all()\n    db.close()   # db가 항상 닫혀있어야 하기 때문에 위에서 먼저 올리는거임\n    # return jsonify(todos) 으로 처리해도 되지만 ↓이 더 이쁨\n    return jsonify([{\"id\": t.id, \"task\": t.task} for t in todos])",
+        "detail": "Flask_liveclass.0925.action.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action.app",
+        "description": "Flask_liveclass.0925.action.app",
+        "peekOfCode": "app = create_app()\nif __name__ == '__main__':\n    app.run(debug=True)\n# todos = {\n#     1: \"Velog 작성\",\n#     2: \"수준별학습 과제\",\n#     3: \"Flask 수업 & 노션 과제 제출\",\n#     4: \"운동가기\"\n# }",
+        "detail": "Flask_liveclass.0925.action.app",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action02.main",
+        "description": "Flask_liveclass.0925.action02.main",
+        "peekOfCode": "def index():\n    return render_template(\"chat.html\")\n@sock.route('/ws')\ndef websocket(ws):\n    # 켜져 있는 동안 계속 돌아가기 때문에, while로 계속 켜 줌\n    clients.add(ws)\n    try:\n        while True:\n            data = ws.receive()  #클라이언트에서 메세지 받기\n            if data is None:  #연결 끊기용",
+        "detail": "Flask_liveclass.0925.action02.main",
+        "documentation": {}
+    },
+    {
+        "label": "websocket",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action02.main",
+        "description": "Flask_liveclass.0925.action02.main",
+        "peekOfCode": "def websocket(ws):\n    # 켜져 있는 동안 계속 돌아가기 때문에, while로 계속 켜 줌\n    clients.add(ws)\n    try:\n        while True:\n            data = ws.receive()  #클라이언트에서 메세지 받기\n            if data is None:  #연결 끊기용\n                break\n            # 모든 클라이언트에게 메세지 전송\n            for client in clients:",
+        "detail": "Flask_liveclass.0925.action02.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action02.main",
+        "description": "Flask_liveclass.0925.action02.main",
+        "peekOfCode": "app = Flask(__name__)\nsock = Sock(app)\n# 클라이언트 추가\nclients = set() # 연결된 클라이언트 보관\n@app.route(\"/\")\ndef index():\n    return render_template(\"chat.html\")\n@sock.route('/ws')\ndef websocket(ws):\n    # 켜져 있는 동안 계속 돌아가기 때문에, while로 계속 켜 줌",
+        "detail": "Flask_liveclass.0925.action02.main",
+        "documentation": {}
+    },
+    {
+        "label": "sock",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action02.main",
+        "description": "Flask_liveclass.0925.action02.main",
+        "peekOfCode": "sock = Sock(app)\n# 클라이언트 추가\nclients = set() # 연결된 클라이언트 보관\n@app.route(\"/\")\ndef index():\n    return render_template(\"chat.html\")\n@sock.route('/ws')\ndef websocket(ws):\n    # 켜져 있는 동안 계속 돌아가기 때문에, while로 계속 켜 줌\n    clients.add(ws)",
+        "detail": "Flask_liveclass.0925.action02.main",
+        "documentation": {}
+    },
+    {
+        "label": "clients",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action02.main",
+        "description": "Flask_liveclass.0925.action02.main",
+        "peekOfCode": "clients = set() # 연결된 클라이언트 보관\n@app.route(\"/\")\ndef index():\n    return render_template(\"chat.html\")\n@sock.route('/ws')\ndef websocket(ws):\n    # 켜져 있는 동안 계속 돌아가기 때문에, while로 계속 켜 줌\n    clients.add(ws)\n    try:\n        while True:",
+        "detail": "Flask_liveclass.0925.action02.main",
+        "documentation": {}
+    },
+    {
+        "label": "websocket",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action03.main",
+        "description": "Flask_liveclass.0925.action03.main",
+        "peekOfCode": "def websocket(ws):\n    connections.append(ws)\n    while True:\n        data = ws.receive()\n        if data is None:\n            break\n        connections.remove(ws)\ndef background_jobs():\n    while True:\n        time.sleep(5)",
+        "detail": "Flask_liveclass.0925.action03.main",
+        "documentation": {}
+    },
+    {
+        "label": "background_jobs",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action03.main",
+        "description": "Flask_liveclass.0925.action03.main",
+        "peekOfCode": "def background_jobs():\n    while True:\n        time.sleep(5)\n        for ws in connections:\n            try:\n                ws.send(\"서버에서 메세지를 보내고 있습니다.\")\n            except Exception:\n                pass\n# 쓰레드 세팅\nthreading.Thread(target=background_jobs, daemon=True).start()",
+        "detail": "Flask_liveclass.0925.action03.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action03.main",
+        "description": "Flask_liveclass.0925.action03.main",
+        "peekOfCode": "app = Flask(__name__)\nsock = Sock(app)\n# 연결된 클라이언트 보관소\nconnections = []\n@sock.route('/ws')\ndef websocket(ws):\n    connections.append(ws)\n    while True:\n        data = ws.receive()\n        if data is None:",
+        "detail": "Flask_liveclass.0925.action03.main",
+        "documentation": {}
+    },
+    {
+        "label": "sock",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action03.main",
+        "description": "Flask_liveclass.0925.action03.main",
+        "peekOfCode": "sock = Sock(app)\n# 연결된 클라이언트 보관소\nconnections = []\n@sock.route('/ws')\ndef websocket(ws):\n    connections.append(ws)\n    while True:\n        data = ws.receive()\n        if data is None:\n            break",
+        "detail": "Flask_liveclass.0925.action03.main",
+        "documentation": {}
+    },
+    {
+        "label": "connections",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action03.main",
+        "description": "Flask_liveclass.0925.action03.main",
+        "peekOfCode": "connections = []\n@sock.route('/ws')\ndef websocket(ws):\n    connections.append(ws)\n    while True:\n        data = ws.receive()\n        if data is None:\n            break\n        connections.remove(ws)\ndef background_jobs():",
+        "detail": "Flask_liveclass.0925.action03.main",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action04.main",
+        "description": "Flask_liveclass.0925.action04.main",
+        "peekOfCode": "def index():\n    return render_template(\"typing.html\")\n@sock.route(\"/ws\")\ndef websocket(ws):\n    # typing... / 메세지 안 나오게 처리\n    while True:\n        data = ws.receive()\n        if data == \"typing\":\n            ws.send(\"typing...\")\n        elif data == \"stop\":",
+        "detail": "Flask_liveclass.0925.action04.main",
+        "documentation": {}
+    },
+    {
+        "label": "websocket",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action04.main",
+        "description": "Flask_liveclass.0925.action04.main",
+        "peekOfCode": "def websocket(ws):\n    # typing... / 메세지 안 나오게 처리\n    while True:\n        data = ws.receive()\n        if data == \"typing\":\n            ws.send(\"typing...\")\n        elif data == \"stop\":\n            ws.send(\"\")\n        if data is None: # 연결 종료\n            break",
+        "detail": "Flask_liveclass.0925.action04.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action04.main",
+        "description": "Flask_liveclass.0925.action04.main",
+        "peekOfCode": "app = Flask(__name__)\nsock = Sock(app)\n@app.route(\"/\")\ndef index():\n    return render_template(\"typing.html\")\n@sock.route(\"/ws\")\ndef websocket(ws):\n    # typing... / 메세지 안 나오게 처리\n    while True:\n        data = ws.receive()",
+        "detail": "Flask_liveclass.0925.action04.main",
+        "documentation": {}
+    },
+    {
+        "label": "sock",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action04.main",
+        "description": "Flask_liveclass.0925.action04.main",
+        "peekOfCode": "sock = Sock(app)\n@app.route(\"/\")\ndef index():\n    return render_template(\"typing.html\")\n@sock.route(\"/ws\")\ndef websocket(ws):\n    # typing... / 메세지 안 나오게 처리\n    while True:\n        data = ws.receive()\n        if data == \"typing\":",
+        "detail": "Flask_liveclass.0925.action04.main",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action05.main",
+        "description": "Flask_liveclass.0925.action05.main",
+        "peekOfCode": "def index():\n    return render_template(\"sentiment.html\")\n@sock.route(\"/ws\")\ndef websocket(ws):\n    while True:\n        data = ws.receive()\n        if data is None:\n            break\n        #감정 분석\n        pos = [\"love\",\"행복\"] # 긍정적",
+        "detail": "Flask_liveclass.0925.action05.main",
+        "documentation": {}
+    },
+    {
+        "label": "websocket",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action05.main",
+        "description": "Flask_liveclass.0925.action05.main",
+        "peekOfCode": "def websocket(ws):\n    while True:\n        data = ws.receive()\n        if data is None:\n            break\n        #감정 분석\n        pos = [\"love\",\"행복\"] # 긍정적\n        neg = [\"sad\", \"angry\", \"슬픔\"] # 부정적\n        # for word in pos: 특정 그룹에서 특정 단어 찾기\n        # word in data : 입력한 데이터에서 특정 단어가 있는지 확인",
+        "detail": "Flask_liveclass.0925.action05.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action05.main",
+        "description": "Flask_liveclass.0925.action05.main",
+        "peekOfCode": "app = Flask(__name__)\nsock = Sock(app)\n@app.route(\"/\")\ndef index():\n    return render_template(\"sentiment.html\")\n@sock.route(\"/ws\")\ndef websocket(ws):\n    while True:\n        data = ws.receive()\n        if data is None:",
+        "detail": "Flask_liveclass.0925.action05.main",
+        "documentation": {}
+    },
+    {
+        "label": "sock",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action05.main",
+        "description": "Flask_liveclass.0925.action05.main",
+        "peekOfCode": "sock = Sock(app)\n@app.route(\"/\")\ndef index():\n    return render_template(\"sentiment.html\")\n@sock.route(\"/ws\")\ndef websocket(ws):\n    while True:\n        data = ws.receive()\n        if data is None:\n            break",
+        "detail": "Flask_liveclass.0925.action05.main",
+        "documentation": {}
+    },
+    {
+        "label": "websocket",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action06.main",
+        "description": "Flask_liveclass.0925.action06.main",
+        "peekOfCode": "def websocket(ws):\n    while True:\n        url = \"https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT\"\n        result = requests.get(url).json() # {\"symbol\":\"BTCUSDT\", \"price\":\"얼마얼마\"}\n        price = result[\"price\"]\n        price_out = round(float(price), 2)  # 디버그이슈: price가 str로 들어왔기에 float 형태로 바꿔줘야했음\n        ws.send(f\"BTC 가격: {price_out}\")\n        time.sleep(2)\n@app.route(\"/\")\ndef index():",
+        "detail": "Flask_liveclass.0925.action06.main",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Flask_liveclass.0925.action06.main",
+        "description": "Flask_liveclass.0925.action06.main",
+        "peekOfCode": "def index():\n    return render_template(\"btc.html\")\nif __name__ == '__main__':\n    app.run(debug=True)\n    #됩니다",
+        "detail": "Flask_liveclass.0925.action06.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action06.main",
+        "description": "Flask_liveclass.0925.action06.main",
+        "peekOfCode": "app = Flask(__name__)\nsock = Sock(app)\n@sock.route(\"/ws\")\ndef websocket(ws):\n    while True:\n        url = \"https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT\"\n        result = requests.get(url).json() # {\"symbol\":\"BTCUSDT\", \"price\":\"얼마얼마\"}\n        price = result[\"price\"]\n        price_out = round(float(price), 2)  # 디버그이슈: price가 str로 들어왔기에 float 형태로 바꿔줘야했음\n        ws.send(f\"BTC 가격: {price_out}\")",
+        "detail": "Flask_liveclass.0925.action06.main",
+        "documentation": {}
+    },
+    {
+        "label": "sock",
+        "kind": 5,
+        "importPath": "Flask_liveclass.0925.action06.main",
+        "description": "Flask_liveclass.0925.action06.main",
+        "peekOfCode": "sock = Sock(app)\n@sock.route(\"/ws\")\ndef websocket(ws):\n    while True:\n        url = \"https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT\"\n        result = requests.get(url).json() # {\"symbol\":\"BTCUSDT\", \"price\":\"얼마얼마\"}\n        price = result[\"price\"]\n        price_out = round(float(price), 2)  # 디버그이슈: price가 str로 들어왔기에 float 형태로 바꿔줘야했음\n        ws.send(f\"BTC 가격: {price_out}\")\n        time.sleep(2)",
+        "detail": "Flask_liveclass.0925.action06.main",
         "documentation": {}
     },
     {
